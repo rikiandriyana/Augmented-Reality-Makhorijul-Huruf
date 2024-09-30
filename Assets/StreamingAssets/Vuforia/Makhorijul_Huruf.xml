@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ha" size="1.000000 1.077670" />
+    <ImageTarget name="wawu" size="1.000000 1.077670" />
+    <ImageTarget name="nun" size="1.000000 1.077670" />
+    <ImageTarget name="mim" size="1.000000 1.077670" />
+    <ImageTarget name="lam" size="1.000000 1.077670" />
+    <ImageTarget name="kaf" size="1.000000 1.077670" />
+    <ImageTarget name="qof" size="1.000000 1.077670" />
+    <ImageTarget name="fa" size="1.000000 1.077670" />
+    <ImageTarget name="ghoin" size="1.000000 1.077670" />
+    <ImageTarget name="ain" size="1.000000 1.077670" />
+    <ImageTarget name="dho" size="1.000000 1.077670" />
+    <ImageTarget name="tho" size="1.000000 1.077670" />
+    <ImageTarget name="dhod" size="1.000000 1.077670" />
+    <ImageTarget name="shod" size="1.000000 1.077670" />
+    <ImageTarget name="syin" size="1.000000 1.077670" />
+    <ImageTarget name="sin" size="1.000000 1.077670" />
+    <ImageTarget name="za" size="1.000000 1.077670" />
+    <ImageTarget name="ra" size="1.000000 1.077670" />
+    <ImageTarget name="dzal" size="1.000000 1.077670" />
+    <ImageTarget name="dal" size="1.000000 1.077670" />
+    <ImageTarget name="kho" size="1.000000 1.077670" />
+    <ImageTarget name="kha" size="1.000000 1.077670" />
+    <ImageTarget name="jim" size="1.000000 1.077670" />
+    <ImageTarget name="tsa" size="1.000000 1.077670" />
+    <ImageTarget name="ya" size="1.000000 1.077670" />
+    <ImageTarget name="ta" size="1.000000 1.077670" />
+    <ImageTarget name="ba" size="1.000000 1.077670" />
+    <ImageTarget name="alif" size="1.000000 1.077670" />
+  </Tracking>
+</QCARConfig>
